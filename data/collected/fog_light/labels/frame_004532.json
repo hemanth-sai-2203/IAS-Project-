@@ -1,0 +1,134 @@
+{
+  "frame_id": 4532,
+  "weather": "fog_light",
+  "num_points": 15662,
+  "num_radar": 200,
+  "objects": [
+    {
+      "class": "vehicle",
+      "actor_id": 295,
+      "bbox_2d": [
+        537,
+        300,
+        553,
+        314
+      ],
+      "bbox_3d": [
+        -7.444,
+        229.905,
+        0.223,
+        2.24,
+        1.035,
+        1.019,
+        89.99
+      ],
+      "distance": 67.98,
+      "occluded": false
+    },
+    {
+      "class": "vehicle",
+      "actor_id": 271,
+      "bbox_2d": [
+        566,
+        304,
+        580,
+        314
+      ],
+      "bbox_3d": [
+        -3.444,
+        232.249,
+        0.219,
+        2.337,
+        0.906,
+        0.721,
+        -90.0
+      ],
+      "distance": 65.51,
+      "occluded": false
+    },
+    {
+      "class": "pedestrian",
+      "actor_id": 312,
+      "bbox_2d": [
+        440,
+        330,
+        459,
+        361
+      ],
+      "bbox_3d": [
+        -8.129,
+        281.562,
+        0.841,
+        0.25,
+        0.25,
+        0.55,
+        24.26
+      ],
+      "distance": 16.93,
+      "occluded": false
+    },
+    {
+      "class": "vehicle",
+      "actor_id": 279,
+      "bbox_2d": [
+        500,
+        307,
+        537,
+        332
+      ],
+      "bbox_3d": [
+        -7.418,
+        264.436,
+        0.361,
+        2.513,
+        1.076,
+        0.825,
+        89.92
+      ],
+      "distance": 33.58,
+      "occluded": false
+    },
+    {
+      "class": "vehicle",
+      "actor_id": 270,
+      "bbox_2d": [
+        445,
+        298,
+        522,
+        361
+      ],
+      "bbox_3d": [
+        -7.397,
+        277.702,
+        0.215,
+        3.183,
+        1.176,
+        1.216,
+        89.91
+      ],
+      "distance": 20.48,
+      "occluded": false
+    },
+    {
+      "class": "vehicle",
+      "actor_id": 306,
+      "bbox_2d": [
+        561,
+        314,
+        597,
+        340
+      ],
+      "bbox_3d": [
+        -3.413,
+        268.899,
+        0.215,
+        2.359,
+        0.947,
+        0.65,
+        -90.05
+      ],
+      "distance": 28.86,
+      "occluded": false
+    }
+  ]
+}

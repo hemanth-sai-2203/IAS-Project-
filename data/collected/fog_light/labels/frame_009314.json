@@ -1,0 +1,29 @@
+{
+  "frame_id": 9314,
+  "weather": "fog_light",
+  "num_points": 15514,
+  "num_radar": 114,
+  "objects": [
+    {
+      "class": "vehicle",
+      "actor_id": 270,
+      "bbox_2d": [
+        378,
+        299,
+        424,
+        347
+      ],
+      "bbox_3d": [
+        60.874,
+        306.535,
+        0.216,
+        3.183,
+        1.176,
+        1.216,
+        0.02
+      ],
+      "distance": 25.26,
+      "occluded": false
+    }
+  ]
+}

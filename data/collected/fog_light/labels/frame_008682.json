@@ -1,0 +1,155 @@
+{
+  "frame_id": 8682,
+  "weather": "fog_light",
+  "num_points": 15853,
+  "num_radar": 195,
+  "objects": [
+    {
+      "class": "vehicle",
+      "actor_id": 295,
+      "bbox_2d": [
+        0,
+        306,
+        111,
+        347
+      ],
+      "bbox_3d": [
+        27.42,
+        187.566,
+        0.223,
+        2.24,
+        1.035,
+        1.019,
+        -179.89
+      ],
+      "distance": 29.42,
+      "occluded": false
+    },
+    {
+      "class": "vehicle",
+      "actor_id": 268,
+      "bbox_2d": [
+        765,
+        316,
+        799,
+        346
+      ],
+      "bbox_3d": [
+        68.308,
+        187.58,
+        0.262,
+        1.903,
+        0.985,
+        0.738,
+        -179.91
+      ],
+      "distance": 32.11,
+      "occluded": false
+    },
+    {
+      "class": "vehicle",
+      "actor_id": 282,
+      "bbox_2d": [
+        0,
+        417,
+        80,
+        556
+      ],
+      "bbox_3d": [
+        41.892,
+        207.583,
+        0.214,
+        2.359,
+        0.947,
+        0.65,
+        90.19
+      ],
+      "distance": 4.91,
+      "occluded": false
+    },
+    {
+      "class": "vehicle",
+      "actor_id": 303,
+      "bbox_2d": [
+        694,
+        315,
+        791,
+        346
+      ],
+      "bbox_3d": [
+        64.169,
+        187.581,
+        0.201,
+        1.817,
+        0.923,
+        0.751,
+        -179.97
+      ],
+      "distance": 29.36,
+      "occluded": false
+    },
+    {
+      "class": "vehicle",
+      "actor_id": 306,
+      "bbox_2d": [
+        334,
+        342,
+        464,
+        466
+      ],
+      "bbox_3d": [
+        45.865,
+        200.88,
+        0.214,
+        2.359,
+        0.947,
+        0.65,
+        -89.41
+      ],
+      "distance": 9.63,
+      "occluded": false
+    },
+    {
+      "class": "pedestrian",
+      "actor_id": 317,
+      "bbox_2d": [
+        744,
+        399,
+        799,
+        514
+      ],
+      "bbox_3d": [
+        50.225,
+        204.486,
+        0.876,
+        0.25,
+        0.25,
+        0.55,
+        -92.12
+      ],
+      "distance": 7.49,
+      "occluded": false
+    },
+    {
+      "class": "pedestrian",
+      "actor_id": 321,
+      "bbox_2d": [
+        758,
+        306,
+        769,
+        335
+      ],
+      "bbox_3d": [
+        69.757,
+        182.812,
+        1.256,
+        0.188,
+        0.188,
+        0.93,
+        -161.7
+      ],
+      "distance": 36.62,
+      "occluded": false
+    }
+  ]
+}

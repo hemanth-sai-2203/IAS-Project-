@@ -121,6 +121,15 @@ class CarlaSetup:
         self._sync_active = True
         logger.info("Sync mode ON.")
 
+        # --- ADD THIS TRAFFIC LIGHT HACK HERE ---
+        traffic_lights = self.world.get_actors().filter('*traffic_light*')
+        for light in traffic_lights:
+            light.set_red_time(3.0)
+            light.set_green_time(10.0)
+            light.set_yellow_time(1.0)
+        logger.info("Traffic light durations aggressively reduced.")
+        # ----------------------------------------
+
     def spawn_vehicle(self):
         lib = self.world.get_blueprint_library()
         bp  = lib.find("vehicle.tesla.model3")

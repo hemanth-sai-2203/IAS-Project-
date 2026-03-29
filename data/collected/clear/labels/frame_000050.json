@@ -1,7 +1,7 @@
 {
   "frame_id": 50,
   "weather": "clear",
-  "num_points": 17598,
-  "num_radar": 46,
+  "num_points": 17487,
+  "num_radar": 138,
   "objects": []
 }

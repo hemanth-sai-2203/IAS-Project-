@@ -123,6 +123,7 @@ if __name__ == "__main__":
     selector = FusionSelector(hysteresis_ticks=3)
     
     print("\n── Test 1: Simulating Camera Flicker (Jitter Protection) ──")
+    monitor.reset_ema()
     # Tick 1: Camera fails
     selector.process_frame({"active_mode": "M3", "degraded": ["camera"]}, None, None, None, None)
     print(f"Tick 1 Mode: {selector.current_mode}")
@@ -136,6 +137,7 @@ if __name__ == "__main__":
         print(f"Fog Tick {i} Mode: {selector.current_mode}")
 
     print("\n── Test 3: Total Sensor Blindness (Tunnel Entry) ──")
+    monitor.reset_ema()
     for i in range(1, 5):
         selector.process_frame({"active_mode": "M3", "degraded": ["camera", "lidar", "radar"]}, None, None, None, None)
         print(f"Blind Tick {i} Mode: {selector.current_mode}")

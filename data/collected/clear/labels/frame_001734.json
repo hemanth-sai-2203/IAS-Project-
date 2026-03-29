@@ -1,0 +1,50 @@
+{
+  "frame_id": 1734,
+  "weather": "clear",
+  "num_points": 18418,
+  "num_radar": 166,
+  "objects": [
+    {
+      "class": "vehicle",
+      "actor_id": 238,
+      "bbox_2d": [
+        387,
+        310,
+        411,
+        332
+      ],
+      "bbox_3d": [
+        -7.42,
+        263.411,
+        0.212,
+        1.853,
+        0.894,
+        0.775,
+        89.93
+      ],
+      "distance": 32.95,
+      "occluded": false
+    },
+    {
+      "class": "vehicle",
+      "actor_id": 234,
+      "bbox_2d": [
+        368,
+        317,
+        431,
+        374
+      ],
+      "bbox_3d": [
+        -7.439,
+        247.443,
+        0.21,
+        2.428,
+        1.016,
+        0.825,
+        89.98
+      ],
+      "distance": 16.98,
+      "occluded": false
+    }
+  ]
+}

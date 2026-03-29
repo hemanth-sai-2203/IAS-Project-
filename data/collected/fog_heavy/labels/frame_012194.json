@@ -1,0 +1,29 @@
+{
+  "frame_id": 12194,
+  "weather": "fog_heavy",
+  "num_points": 8395,
+  "num_radar": 113,
+  "objects": [
+    {
+      "class": "pedestrian",
+      "actor_id": 382,
+      "bbox_2d": [
+        128,
+        327,
+        145,
+        363
+      ],
+      "bbox_3d": [
+        117.617,
+        296.882,
+        0.976,
+        0.188,
+        0.188,
+        0.65,
+        178.04
+      ],
+      "distance": 18.88,
+      "occluded": false
+    }
+  ]
+}

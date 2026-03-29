@@ -1,0 +1,29 @@
+{
+  "frame_id": 16338,
+  "weather": "rain",
+  "num_points": 15060,
+  "num_radar": 200,
+  "objects": [
+    {
+      "class": "vehicle",
+      "actor_id": 405,
+      "bbox_2d": [
+        491,
+        320,
+        596,
+        363
+      ],
+      "bbox_3d": [
+        183.555,
+        301.876,
+        0.262,
+        1.903,
+        0.985,
+        0.738,
+        159.65
+      ],
+      "distance": 19.38,
+      "occluded": false
+    }
+  ]
+}

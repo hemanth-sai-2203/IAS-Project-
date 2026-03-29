@@ -61,7 +61,7 @@ RADAR_MOUNT   = (2.0,  0.0, 1.0,  5.0, 0.0, 0.0)
 
 # ── DATA COLLECTION ───────────────────────────────────────────────────────────
 WEATHER_STATES      = ["clear", "fog_light", "fog_heavy", "rain"]
-FRAMES_PER_WEATHER  = 500          # frames to collect per weather state
+FRAMES_PER_WEATHER  = 1500          # frames to collect per weather state
 QUEUE_TIMEOUT       = 8.0          # seconds — increased for Windows timing
 
 # ── WEATHER PARAMETERS (CARLA 0.9.15 WeatherParameters fields) ───────────────

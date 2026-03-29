@@ -1,0 +1,113 @@
+{
+  "frame_id": 14440,
+  "weather": "rain",
+  "num_points": 14848,
+  "num_radar": 200,
+  "objects": [
+    {
+      "class": "vehicle",
+      "actor_id": 406,
+      "bbox_2d": [
+        747,
+        304,
+        799,
+        341
+      ],
+      "bbox_3d": [
+        161.663,
+        187.652,
+        0.217,
+        3.137,
+        1.195,
+        1.049,
+        -179.6
+      ],
+      "distance": 36.5,
+      "occluded": false
+    },
+    {
+      "class": "vehicle",
+      "actor_id": 439,
+      "bbox_2d": [
+        656,
+        311,
+        765,
+        340
+      ],
+      "bbox_3d": [
+        155.223,
+        187.624,
+        0.22,
+        2.619,
+        0.965,
+        0.819,
+        179.84
+      ],
+      "distance": 32.35,
+      "occluded": false
+    },
+    {
+      "class": "vehicle",
+      "actor_id": 430,
+      "bbox_2d": [
+        788,
+        304,
+        799,
+        319
+      ],
+      "bbox_3d": [
+        189.684,
+        160.45,
+        0.223,
+        2.276,
+        1.049,
+        0.884,
+        90.07
+      ],
+      "distance": 75.54,
+      "occluded": false
+    },
+    {
+      "class": "vehicle",
+      "actor_id": 407,
+      "bbox_2d": [
+        223,
+        360,
+        576,
+        599
+      ],
+      "bbox_3d": [
+        136.143,
+        208.361,
+        0.21,
+        1.853,
+        0.894,
+        0.775,
+        -89.91
+      ],
+      "distance": 5.38,
+      "occluded": false
+    },
+    {
+      "class": "pedestrian",
+      "actor_id": 442,
+      "bbox_2d": [
+        113,
+        313,
+        132,
+        371
+      ],
+      "bbox_3d": [
+        127.15,
+        199.26,
+        1.256,
+        0.188,
+        0.188,
+        0.93,
+        86.29
+      ],
+      "distance": 17.08,
+      "occluded": false
+    }
+  ]
+}

@@ -1,7 +1,134 @@
 {
   "frame_id": 480,
   "weather": "clear",
-  "num_points": 18498,
-  "num_radar": 75,
-  "objects": []
+  "num_points": 18908,
+  "num_radar": 177,
+  "objects": [
+    {
+      "class": "vehicle",
+      "actor_id": 238,
+      "bbox_2d": [
+        368,
+        305,
+        392,
+        317
+      ],
+      "bbox_3d": [
+        -2.441,
+        108.165,
+        0.21,
+        1.853,
+        0.894,
+        0.775,
+        149.88
+      ],
+      "distance": 57.33,
+      "occluded": false
+    },
+    {
+      "class": "vehicle",
+      "actor_id": 236,
+      "bbox_2d": [
+        75,
+        305,
+        108,
+        315
+      ],
+      "bbox_3d": [
+        -7.438,
+        152.095,
+        0.201,
+        1.817,
+        0.923,
+        0.751,
+        90.13
+      ],
+      "distance": 77.83,
+      "occluded": false
+    },
+    {
+      "class": "vehicle",
+      "actor_id": 234,
+      "bbox_2d": [
+        378,
+        311,
+        419,
+        348
+      ],
+      "bbox_3d": [
+        31.112,
+        105.453,
+        0.212,
+        2.428,
+        1.016,
+        0.825,
+        179.8
+      ],
+      "distance": 23.71,
+      "occluded": false
+    },
+    {
+      "class": "vehicle",
+      "actor_id": 229,
+      "bbox_2d": [
+        387,
+        306,
+        410,
+        325
+      ],
+      "bbox_3d": [
+        13.309,
+        105.52,
+        0.361,
+        2.513,
+        1.076,
+        0.825,
+        179.79
+      ],
+      "distance": 41.52,
+      "occluded": false
+    },
+    {
+      "class": "vehicle",
+      "actor_id": 222,
+      "bbox_2d": [
+        138,
+        304,
+        180,
+        315
+      ],
+      "bbox_3d": [
+        -7.419,
+        141.906,
+        0.361,
+        2.513,
+        1.076,
+        0.825,
+        90.07
+      ],
+      "distance": 72.16,
+      "occluded": false
+    },
+    {
+      "class": "vehicle",
+      "actor_id": 221,
+      "bbox_2d": [
+        218,
+        304,
+        254,
+        315
+      ],
+      "bbox_3d": [
+        -7.423,
+        130.134,
+        0.287,
+        2.306,
+        1.121,
+        0.834,
+        89.78
+      ],
+      "distance": 66.99,
+      "occluded": false
+    }
+  ]
 }
