@@ -1,0 +1,7 @@
+{
+  "frame_id": 200,
+  "weather": "clear",
+  "num_points": 17512,
+  "num_radar": 47,
+  "objects": []
+}
